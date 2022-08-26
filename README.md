@@ -1,7 +1,7 @@
 Hi 👋! My name is Sergio Morales
 ======================================================================================================================================
 
-Fullt Stack Web Developer && Lawyer
+Full Stack Web Developer && Lawyer
 ------------------------
 
 * 🌍  I'm based in Barcelona
