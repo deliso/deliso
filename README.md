@@ -6,7 +6,7 @@ Full Stack Web Developer && Lawyer
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [s.moraleslopez.bcn@gmail.com](mailto:s.moraleslopez.bcn@gmail.com)
-* 🚀  I'm currently working on [Trepir](http://trepir.com)
+* 🚀  I'm currently working at [Stalicla](https://stalicla.com/)
 
 ### Skills
 
